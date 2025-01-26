@@ -1,6 +1,5 @@
+<p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Well, hello there! :) &font=Fira%20Code&center=true&width=1000&height=50&color=39D353&duration=4000&pause=1000" alt="README Typing SVG"></p>
 <img align="center" alt="banner" height= "200px" width="100%" src="apriorio.gif">
-<!-- ![BannerGif](apriorio.gif) -->
-<!-- ## 🌻 &nbsp;Hello there, I am Olena -->
 
 ## 👩🏼‍💻 &nbsp;About Me
 Hello, I am Olena, and I have a unique combination of technical experience and creativity to offer the world of technology.
