@@ -36,6 +36,7 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 
 <!-- &nbsp; -->
 ## ⚙️ &nbsp; Let’s create something amazing together!
+📩 hulakova.olena@gmail.com
 
 
 <!-- ## ⚙️ &nbsp;Stats
