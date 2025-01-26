@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" src="apriorio.gif">
+<img align="center" alt="banner" height= "200px" width="100%" src="apriorio.gif">
 
 <!-- ![BannerGif](apriorio.gif) -->
 <!-- ## 🌻 &nbsp;Hello there, I am Olena -->
