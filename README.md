@@ -1,4 +1,4 @@
-<p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Well, hello there! :) &font=Fira%40Code&center=true&width=1000&height=50&color=39D353&duration=4000&pause=1000" alt="README Typing SVG"></p>
+<!--<p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Well, hello there! :) &font=Fira%40Code&center=true&width=1000&height=50&color=39D353&duration=4000&pause=1000" alt="README Typing SVG"></p>-->
 <img align="center" alt="banner" height= "200px" width="100%" src="apriorio.gif">
 
 ## 👩🏼‍💻 &nbsp;About Me
