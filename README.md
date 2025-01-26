@@ -1,7 +1,7 @@
 <img align="center" alt="banner" height= "200px" width="100%" src="apriorio.gif">
-
 <!-- ![BannerGif](apriorio.gif) -->
 <!-- ## 🌻 &nbsp;Hello there, I am Olena -->
+
 ## 👩🏼‍💻 &nbsp;About Me
 Hello, I am Olena, and I have a unique combination of technical experience and creativity to offer the world of technology.
 I have earned a background in project management, business analysis, and no-code development and have been creating ideas into life and bridging the gap between business needs and technical solutions for several years. 
@@ -33,9 +33,9 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
   <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
   <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
 </div>
-
 <!-- &nbsp; -->
-## ⚙️ &nbsp; How to contact me:
+
+## ⚙️ &nbsp; How to contact me
 📩 hulakova.olena@gmail.com
 <p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000" alt="README Typing SVG"></p>
 <!-- ## ⚙️ &nbsp;Stats
