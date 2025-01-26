@@ -35,10 +35,9 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 </div>
 
 <!-- &nbsp; -->
-## ⚙️ &nbsp; Let’s create something amazing together!
+## ⚙️ &nbsp; How to contact me:
 📩 hulakova.olena@gmail.com
-
-
+<p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000" alt="README Typing SVG"></p>
 <!-- ## ⚙️ &nbsp;Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="apriorio stats" /></p> -->
 
