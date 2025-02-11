@@ -33,11 +33,11 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
   <h2>💹 My GitHub Stats</h2>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" height="180" alt="apriorio stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" height="180" alt="apriorio stats">
   <img src="https://streak-stats.demolab.com?user=aprioriO&theme=react&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_height=180" alt="GitHub Streak">
 </div><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" height="180" alt="apriorio stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" height="180" alt="apriorio stats">
 </div><br>
 
 <!-- ## ⚙️ &nbsp; How to contact me -->
