@@ -15,25 +15,43 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 <!-- &nbsp; -->
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
+<div style="display: flex; justify-content: space-around">
 <div>
   <div align="center">
     <h2>🛠 Languages & Tools</h2>
   </div>
 
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=6">
+      <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=4">
   </div>
 </div>
 
-## 💹 &nbsp; My GitHub Stats
-<div style="display: inline_block">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="apriorio stats" />
+<!-- ## &nbsp; My GitHub Stats -->
+<div>
+  <div align="center">
+    <h2>💹  My GitHub Stats</h2>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="apriorio stats">
+  </div>
+</div>
 </div>
 
+<div>
+  <div align="center">
+    <h2>📬 How to contact me</h2>
+  </div>
+  <div align="center">
+    📩 My email: hulakova.olena@gmail.com
+  </div>
+</div>
 
-## ⚙️ &nbsp; How to contact me
-📩 My email: hulakova.olena@gmail.com
-<p align="left"><img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&color=0962E9&duration=4000&pause=1000" alt="README Typing SVG"></p>
+<!-- ## ⚙️ &nbsp; How to contact me -->
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&color=5AA4FF&duration=4000&pause=1000" alt="README Typing SVG">
+</div>
 
 <!--
 **aprioriO/apriorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
