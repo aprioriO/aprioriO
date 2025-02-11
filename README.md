@@ -34,6 +34,9 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" height="180" alt="apriorio stats">
   <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" height="180" alt="apriorio stats">
+</div><br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=apriorio&theme=blue-green&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_height=180" alt="GitHub Streak">
 </div>
 
 <!-- ## ⚙️ &nbsp; How to contact me -->
