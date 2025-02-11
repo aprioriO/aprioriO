@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img alt="banner" height="150px" width="100%" src="apriorio.gif">
 </div>
 
@@ -18,17 +18,17 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
 <div>
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center;">
     <h2>🛠 Languages & Tools</h2>
   </div>
 
-  <div style="text-align: center;">
+  <div style="display: flex; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=">
   </div>
 </div>
 
 <!-- ## &nbsp; My GitHub Stats -->
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <h2>💹 My GitHub Stats</h2>
 </div>
 <div style="display: flex; justify-content: space-around">
@@ -39,11 +39,11 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 <!-- ## ⚙️ &nbsp; How to contact me -->
 <div style="text-align: center;">
   <h2>📬 How to contact me</h2>
-  📩 You can reach me through my <a href="https://example.com/contact-form">contact form</a>.
+  📩 My email: <a href="mailto:hulakova.olena@gmail.com">hulakova.olena@gmail.com</a>
 </div>
 
 <br>
-<div style="text-align: left;">
+<div style="display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&color=5AA4FF&duration=4000&pause=1000" alt="README Typing SVG">
 </div>
 
