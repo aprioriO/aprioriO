@@ -39,7 +39,7 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 <!-- ## ⚙️ &nbsp; How to contact me -->
 <div style="text-align: center;">
   <h2>📬 How to contact me</h2>
-  📩 My email: <a href="#">hulakova.olena@gmail.com</a>
+  📩 My email: <a href="#">***</a>
 </div>
 
 <br>
