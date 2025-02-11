@@ -23,7 +23,7 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
   </div>
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=6">
   </div>
 </div>
 
