@@ -1,4 +1,4 @@
-<img align="center" alt="banner" height="200px" width="100%" src="apriorio.gif">
+<img align="center" alt="banner" height="150px" width="100%" src="apriorio.gif">
 
 <div align="center">
   <h1>👩🏼‍💻 About Me</h1>
@@ -15,40 +15,32 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 <!-- &nbsp; -->
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
-<div style="display: flex; justify-content: space-around">
 <div>
   <div align="center">
     <h2>🛠 Languages & Tools</h2>
   </div>
 
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=4">
+      <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=">
   </div>
 </div>
 
 <!-- ## &nbsp; My GitHub Stats -->
-<div>
-  <div align="center">
-    <h2>💹  My GitHub Stats</h2>
-  </div>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="apriorio stats">
-  </div>
+<div align="center">
+  <h2>💹  My GitHub Stats</h2>
 </div>
-</div>
-
-<div>
-  <div align="center">
-    <h2>📬 How to contact me</h2>
-  </div>
-  <div align="center">
-    📩 My email: hulakova.olena@gmail.com
-  </div>
+<div style="display: flex; justify-content: space-around">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" alt="apriorio stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" alt="apriorio stats">
 </div>
 
 <!-- ## ⚙️ &nbsp; How to contact me -->
-
+<div align="center">
+  <h2>📬 How to contact me</h2>
+  📩 My email: <a href="mailto:hulakova.olena@gmail.com">hulakova.olena@gmail.com</a>
+</div>
+<br>
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&color=5AA4FF&duration=4000&pause=1000" alt="README Typing SVG">
 </div>
