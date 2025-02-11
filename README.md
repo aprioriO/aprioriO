@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img alt="banner" height="150px" width="100%" src="apriorio.gif">
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <h1>💙💛 About Me</h1>
   <img src="https://komarev.com/ghpvc/?username=apriorio&color=blue" alt="GitHub profile views counter">
 </div><br>
@@ -18,32 +18,32 @@ I’m passionate about clean code, solving problems, and constantly learning. Wh
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
 <div>
-  <div style="display: flex; justify-content: center;">
+  <div align="center">
     <h2>🛠 Languages & Tools</h2>
   </div>
 
-  <div style="display: flex; justify-content: center;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,sass,javascript,mysql,postgresql,sqlite,figma,wordpress&perline=">
   </div>
 </div>
 
 <!-- ## &nbsp; My GitHub Stats -->
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <h2>💹 My GitHub Stats</h2>
 </div>
-<div style="display: flex; justify-content: space-around">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" alt="apriorio stats">
   <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" alt="apriorio stats">
 </div>
 
 <!-- ## ⚙️ &nbsp; How to contact me -->
-<div style="text-align: center;">
+<div align="center">
   <h2>📬 How to contact me</h2>
-  📩 My email:
+  📩 My email: <a href="mailto:hulakova.olena@gmail.com">hulakova.olena@gmail.com</a>
 </div>
 
 <br>
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Message+me+to+create+something+amazing+together!&font=Fira%20Code&center=true&width=1000&height=50&color=5AA4FF&duration=4000&pause=1000" alt="README Typing SVG">
 </div>
 
