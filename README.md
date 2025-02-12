@@ -7,14 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=apriorio&color=blue" alt="GitHub profile views counter">
 </div><br>
 
-Hello, I am Olena, and I have a unique combination of technical experience and creativity to offer the world of technology.
-I have earned a background in project management, business analysis, and no-code development and have been creating ideas into life and bridging the gap between business needs and technical solutions for several years.
+Hi, I’m Olena! 
 
-Then I wanted more and became a developer.
-Now, with skills in Ruby on Rails, JavaScript, and other technologies, I build full-stack applications that are functional and user-oriented.
-My approach is a mix of deep business process understanding with precision from a developer's point of view, hence allowing me to create solutions that make an impact.
+My journey into tech is a little different. I started in business analysis, project management, and no-code development, helping businesses translate their needs into technical solutions.
 
-I’m passionate about clean code, solving problems, and constantly learning. Whether it’s collaborating on a new product or improving existing systems, I’m ready to bring value, creativity, and dedication to your team. Let’s build something amazing together!
+But I wanted to do more. So, I became a developer. Now, I build full-stack applications with Ruby on Rails, JavaScript, and more - creating user-friendly, innovative solutions that truly support businesses.
+
+I blend technical expertise with creativity, finding smart, elegant ways to solve problems. I focus on writing clean code, improving systems, and constantly learning. Whether it’s building something new or enhancing an existing product, I bring original ideas, dedication, and a fresh perspective to every project.
+
+Let’s build something great together!
 <br>
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
