@@ -40,7 +40,6 @@ Let’s build something great together!
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aprioriO&theme=react&date_format=M%20j%5B%2C%20Y%5D&card_height=180" alt="GitHub Streak">
-<!--   <img src="[https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react](https://streak-stats.demolab.com/?user=aprioriO&theme=react&date_format=M%20j%5B%2C%20Y%5D&card_height=180)" alt="GitHub Streak"> -->
 </div><br>
 
 <!-- ## ⚙️ &nbsp; How to contact me -->
