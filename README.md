@@ -9,11 +9,11 @@
 
 Hi, I’m Olena! 
 
-My journey into tech is a little different. I started in business analysis, project management, and no-code development, helping businesses translate their needs into technical solutions.
+My tech journey is a little different. I started in business analysis and project management helping businesses translate their needs into technical solutions.
 
 But I wanted to do more. So, I became a developer. Now, I build full-stack applications with Ruby on Rails, JavaScript, and more - creating user-friendly, innovative solutions that truly support businesses.
 
-I blend technical expertise with creativity, finding smart, elegant ways to solve problems. I focus on writing clean code, improving systems, and constantly learning. Whether it’s building something new or enhancing an existing product, I bring original ideas, dedication, and a fresh perspective to every project.
+I blend technical expertise with my analytical skills, finding smart, elegant ways to solve problems. I focus on writing clean code, improving systems, and constantly learning. Whether building something new or enhancing an existing product, I bring original ideas, dedication, and a fresh perspective to every project.
 
 Let’s build something great together!
 <br>
