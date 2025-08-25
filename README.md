@@ -7,15 +7,20 @@
   <img src="https://komarev.com/ghpvc/?username=apriorio&color=blue" alt="GitHub profile views counter">
 </div><br>
 
-Hi, I’m Olena! 
+Hi, I’m Olena!
 
-My tech journey is a little different. I started in business analysis and project management helping businesses translate their needs into technical solutions.
+My career started in business analysis and project management, where I learned how to bridge the gap between business needs and technical solutions. Over time, I realised I didn’t just want to manage solutions—I wanted to help build them.
 
-But I wanted to do more. So, I became a developer. Now, I build full-stack applications with Ruby on Rails, JavaScript, and more - creating user-friendly, innovative solutions that truly support businesses.
+That led me into full-stack development, where I now create applications with Ruby on Rails, JavaScript, and modern web technologies. This hands-on experience has given me a deep appreciation for what it takes to deliver high-quality products and the ability to collaborate effectively with development teams.
 
-I blend technical expertise with my analytical skills, finding smart, elegant ways to solve problems. I focus on writing clean code, improving systems, and constantly learning. Whether building something new or enhancing an existing product, I bring original ideas, dedication, and a fresh perspective to every project.
+Today, I bring together product management expertise and technical skills:
+	•	Translating business goals into actionable roadmaps
+	•	Collaborating with stakeholders and developers to build user-friendly solutions
+	•	Balancing strategy with execution to deliver products that matter
 
-Let’s build something great together!
+I love solving complex problems with clear, elegant solutions—whether that’s building something from scratch or improving an existing product. My focus is always on value, usability, and impact.
+
+Let’s create products that make a difference!
 <br>
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
