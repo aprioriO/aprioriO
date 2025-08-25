@@ -9,18 +9,13 @@
 
 Hi, I’m Olena!
 
-My career started in business analysis and project management, where I learned how to bridge the gap between business needs and technical solutions. Over time, I realised I didn’t just want to manage solutions—I wanted to help build them.
+My tech journey is a little different. I started in business analysis and project management helping businesses translate their needs into technical solutions. That’s where I discovered my passion for building products that truly make an impact.
 
-That led me into full-stack development, where I now create applications with Ruby on Rails, JavaScript, and modern web technologies. This hands-on experience has given me a deep appreciation for what it takes to deliver high-quality products and the ability to collaborate effectively with development teams.
+Now, as a Product Manager with hands-on coding experience, I bridge the gap between business goals and technical execution. I’ve built full-stack applications with Ruby on Rails, JavaScript, and modern web tools, which helps me work closely with developers and understand the details behind every decision.
 
-Today, I bring together product management expertise and technical skills:
-	•	Translating business goals into actionable roadmaps
-	•	Collaborating with stakeholders and developers to build user-friendly solutions
-	•	Balancing strategy with execution to deliver products that matter
+I focus on the why as much as the how - making sure products are not only well-built, but also meaningful for users.
 
-I love solving complex problems with clear, elegant solutions—whether that’s building something from scratch or improving an existing product. My focus is always on value, usability, and impact.
-
-Let’s create products that make a difference!
+Let’s create something that truly makes a difference!
 <br>
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
